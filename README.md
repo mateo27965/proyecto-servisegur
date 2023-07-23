@@ -1,2 +1,2 @@
-# serviSegur
-Implementation and programming of the database system of the company ServiSegur. Project done for the course of Data Engineering.
+# Proyecto - servisegur
+Trabajo del curso Ingenieria de datos - Control de empleados de la empresa servisegur
